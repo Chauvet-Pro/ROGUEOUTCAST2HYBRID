@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.241125 - Rogue Outcast 2 Hybrid](https://github.com/Chauvet-Pro/ROGUEOUTCAST2HYBRID/blob/72f1333e110dc2b67eacdf2002e6e855ebfcf19f/firmware/V1.241125.zip)
+- Add 2 steps standalone program
+
 [V1.240912 - Rogue Outcast 2 Hybrid](https://github.com/Chauvet-Pro/ROGUEOUTCAST2HYBRID/blob/ab0e5a00c61353d7561c5f63d2e0e953a05d624a/firmware/V1.240912.zip)
 - Added auto display flip
 - Fixed zoom issues
